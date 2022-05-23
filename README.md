@@ -18,9 +18,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ## Installation
 
-Downloading the Unity Environment
-
-Download the already built environment from one the links below depending on your machine and operating system. 
+Download the already built Unity environment from one the links below depending on your machine and operating system. 
 
 Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip) <br>
 Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip) <br>
