@@ -26,4 +26,4 @@ Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip) <br>
 
 ## Training the Agent
-In order to train the agent, follow the instructions and the run the code in the cells sequentially of the Navigation.ipynb file. 
+In order to train the agent, follow the instructions in the Navigation.ipynb file  and the run the code in the cells sequentially.
